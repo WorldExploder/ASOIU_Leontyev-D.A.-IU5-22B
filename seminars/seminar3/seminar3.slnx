@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="dep.csv" />
+    <File Path="input.csv" />
+    <File Path="Sem3.csproj" />
+  </Folder>
+  <Project Path="seminar3.csproj" />
+</Solution>
